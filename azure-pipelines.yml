@@ -6,7 +6,7 @@
 # removed ***NO_CI*** to skip pipeline run
 
 trigger:
-- main
+- master
 
 strategy:
   matrix:
